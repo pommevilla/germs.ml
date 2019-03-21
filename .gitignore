@@ -5,6 +5,9 @@
 # Data files
 data/
 
+# Ignore scratch directory
+scratch/
+
 # Sweave files
 *.Rnw
 *.log
