@@ -3,7 +3,6 @@
 .Rapp.history
 
 # Data files
-data/
 
 # Ignore scratch directory
 scratch/
