@@ -4,6 +4,9 @@
 
 # Data files
 
+# Ignore working directory
+my_work/
+
 # Ignore scratch directory
 scratch/
 
