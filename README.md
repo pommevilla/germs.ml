@@ -16,11 +16,10 @@ Material for the [GERMS](http://germslab.org/) lab machine learning group. These
 
 You can create a copy of the virtual environment used at these study group meetings by doing the following with Conda.
 
-1. Clone the repo: `git clone https://github.com/pommevilla/germs.ml.git'i
+1. Clone the repo: `git clone https://github.com/pommevilla/germs.ml.git`
 2. Move to the newly cloned directory: `cd germs.ml`
 3. Create the environment from the `yml` file: `conda env create -f src/germs-ml.yml`
 4. Check that the installation works: `conda activate germsml`
-
-You should be all set! 
+5. You should see `(germsml)` next to your command line prompt. You should be all set! Deactivate the environment with `conda deactivate`.
 
 Send any feedback, questions, or suggestions to pev at iastate dot edu.
