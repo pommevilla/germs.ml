@@ -9,3 +9,16 @@ Material for the [GERMS](http://germslab.org/) lab machine learning group.
 * [4/24/2019 - Groundwater Revisited](https://nbviewer.jupyter.org/github/pommevilla/germs.ml/blob/master/notebooks/04242019.ipynb)
 * [5/1/2019 - Getting started with Keras](https://nbviewer.jupyter.org/github/pommevilla/germs.ml/blob/master/notebooks/05012019.ipynb)
 * [5/15/2019 - (Very) Basic sentiment analysis and hyperparameter optimization with Keras](https://nbviewer.jupyter.org/github/pommevilla/germs.ml/blob/master/notebooks/05152019.ipynb)
+
+## Setup
+
+You can create a copy of the virtual environment used at these study group meetings by doing the following with Conda.
+
+1. Clone the repo: `git clone https://github.com/pommevilla/germs.ml.git'i
+2. Move to the newly cloned directory: `cd germs.ml`
+3. Create the environment from the `yml` file: `conda env create -f src/germs-ml.yml`
+4. Check that the installation works: `conda activate germsml`
+
+You should be all set! 
+
+Send any feedback, questions, or suggestions to pev at iastate dot edu.
