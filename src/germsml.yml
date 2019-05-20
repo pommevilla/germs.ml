@@ -10,4 +10,5 @@ dependencies:
   - jupyter
   - tensorflow
   - keras
+  - spyder
   - numpy=1.16.1
