@@ -1,6 +1,8 @@
 # GERMS Machine Learning Group
 
-Material for the [GERMS](http://germslab.org/) lab machine learning group.
+Material for the [GERMS](http://germslab.org/) lab machine learning group. These are intended as a hands-on introduction to machine learning for those with minimal Python experience. The lessons are balanced between theory- and applications-centered lessons.
+
+## Lessons
 
 * [3/27/2019 - Getting started](https://nbviewer.jupyter.org/github/pommevilla/germs.ml/blob/master/notebooks/3272019.ipynb)
 * [4/4/2019 - A small case study](https://nbviewer.jupyter.org/github/pommevilla/germs.ml/blob/master/notebooks/04032019.ipynb)
