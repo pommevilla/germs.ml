@@ -1,0 +1,13 @@
+name: test_2
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.6
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - jupyter
+  - tensorflow
+  - keras
+  - numpy=1.16.1
